@@ -2,8 +2,18 @@ body {
     background-color: aqua;
 }
 
+h1 {
+    color: rgb(211, 33, 33)
+}
+
 .heading {
-    color: blue;
+    color: red;
     size: 5050px;
     font-size: 100px;
-} 
+}
+
+.Subheading {
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 10%;
+}
