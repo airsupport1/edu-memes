@@ -1,24 +1,3 @@
 body {
     background-color: #242927;
 }
-
-.image {
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-    margin-right:25%;
-    margin-left:25%;
-}
-
-.title {
-    margin-left: 25%;
-    color: azure;
-    font-size: 50px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-.border {
-    border-top: 8px solid #bbb;
-    border-radius: 5px;
-    width: 50%;
-}
